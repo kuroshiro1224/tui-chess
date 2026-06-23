@@ -1,0 +1,25 @@
+# Môi trường ảo (Virtual Environments)
+venv/
+env/
+.env
+
+# File biên dịch của Python (Byte-compiled / optimized / DLL files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build / Packaging
+build/
+dist/
+*.egg-info/
+
+# Game Data
+saves.json

@@ -1,0 +1,3 @@
+chess==1.11.2
+colorama==0.4.6
+setuptools==82.0.1
